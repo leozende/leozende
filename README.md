@@ -1,33 +1,29 @@
-<div style =" display: inline_block">
-  <h1>
-    Hi, Leonardo here!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width = "30px" height = "40px"/>
-  </h1>
+# Hi, Leonardo here!✨
+
+### A new programmer, looking for experience in this field.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leozende&bg_color=00000f&border_color=00FFFF&show_icons=true&icon_color=00f7ff&title_color=00FFFF&text_color=30A3DC)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leozende&bg_color=00000f&border_color=00FFFF&title_color=00FFFF&text_color=30A3DC)
+
+### Skills
+
+![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![Unity](https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+[![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+<div style="text-align: right"> 
+
+### Social
+
+[![Perfil DIO](https://img.shields.io/badge/-My%20DIO%20Perfil-30A3DC?style=for-the-badge)](https://web.dio.me/users/leonardo_nakashima)
+[![E-mail](https://img.shields.io/badge/-Email-00000F?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:waterwhirl@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00000F?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leonardo-rezende-nakashima/)
+[![itch.io](https://img.shields.io/badge/-itch.io-00000F?style=for-the-badge&logo=itch.io&logoColor=E94D5F)](https://itch.io/profile/waterwhirl)
+
 </div>
-
-<h3>A new programmer, looking for experience in this field.</h3>
-
----
-<h2>Stats</h2>
-<div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozende&show_icons=true&theme=algolia&text_color=00ffff&border_color=00ffff&icon_color=00f7ff" align = "top"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=leozende&show_icons=true&theme=algolia&text_color=00ffff&border_color=00ffff&icon_color=00f7ff" align = "right"/>
-</div>
-
----
-<div style="display: inline_block">
-
-<h2 align = "top">Tecnologies</h2>
-  <p align = "left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" alt="C#" height="60px" width="80px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" align="center" alt="Js" height="60px" width="80px"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" align="center" alt="Unity" height="60px" width="80px"/>
-</p>
-
-<h2 align = "right">Social</h2>
-  <p align = "right">
-  <a href="https://www.linkedin.com/in/leonardo-rezende-nakashima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="C#" height="30px" width="100px"/></a>
-  <a href="https://waterwhirl.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" align="center" alt="C#" height="30px" width="100px"/></a>
-  </p>
-</div>
-
----
