@@ -22,7 +22,7 @@
 ### Social
 
 [![Perfil DIO](https://img.shields.io/badge/-My%20DIO%20Perfil-30A3DC?style=for-the-badge)](https://web.dio.me/users/leonardo_nakashima)
-[![E-mail](https://img.shields.io/badge/-Email-00000F?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:waterwhirl@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-00000F?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:leonardo-zende@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00000F?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://www.linkedin.com/in/leozende)
 [![itch.io](https://img.shields.io/badge/-itch.io-00000F?style=for-the-badge&logo=itch.io&logoColor=E94D5F)](https://itch.io/profile/waterwhirl)
 
