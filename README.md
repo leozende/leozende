@@ -1,6 +1,6 @@
 # Hi, Leonardo here!✨
 
-### A new programmer, looking for experience in this field.
+### Game Developer focused on Unity and C#.
 
 ## GitHub Stats
 
